@@ -1,5 +1,7 @@
 # Bitcoin_price_prediction
+![image](https://user-images.githubusercontent.com/84913669/152351691-0802b4f8-a6e2-4234-9a3c-956c0d9b25af.png)
 
-What is Streamlit?
+1. What is bitcoin?
 
-Streamlit is a free and open-source app framework that presents an easy way for data scientists and machine learning engineers to create great Python apps quickly. Streamlit’s opinioned nature makes building frontends easy. Lastly, Streamlit can make experimentation and production of data apps and machine learning analysis easier to do and to iterate on.
+Bitcoin is a decentralized digital currency without any central administrator and can be sent directly from user to user on the bitcoin network. Network nodes verify transactions through cryptography and are recorded in a public distributed ledger called a blockchain which also track ownership, prevent tampering of transaction records, prevent double spending.
+Bitcoin gains value based on the community involvement. i.e. Demand and Supply. Currently, demand is more than supply, which impacts price and increases volatility. E.g., In Jan 2017 prices were around 1000 USD which later increased to 16000 USD by December 2017. Then it again saw some gain and fall, but in recent times the prices skyrocketed to 63000 USD.
