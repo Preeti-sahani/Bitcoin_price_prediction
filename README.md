@@ -1,5 +1,5 @@
 # Bitcoin_price_prediction
-![image](https://user-images.githubusercontent.com/84913669/152358589-c6ab3674-4b92-4cb0-9c94-ecbfb47f7e1f.png)
+![image](https://user-images.githubusercontent.com/84913669/152358743-4b5582a1-f5e0-47d5-9555-2ab9cfa80d9c.png)
 1. What is bitcoin?
 
 Bitcoin is a decentralized digital currency without any central administrator and can be sent directly from user to user on the bitcoin network. Network nodes verify transactions through cryptography and are recorded in a public distributed ledger called a blockchain which also track ownership, prevent tampering of transaction records, prevent double spending.
