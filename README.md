@@ -6,4 +6,6 @@ Bitcoin is a decentralized digital currency without any central administrator an
 
 Bitcoin gains value based on the community involvement. i.e. Demand and Supply. Currently, demand is more than supply, which impacts price and increases volatility. E.g., In Jan 2017 prices were around 1000 USD which later increased to 16000 USD by December 2017. Then it again saw some gain and fall, but in recent times the prices skyrocketed to 63000 USD.
 
-Project : https://price-prediction-of-bitcoin.herokuapp.com/
+Model Used; Linear Regression
+
+Live Project : https://price-prediction-of-bitcoin.herokuapp.com/
